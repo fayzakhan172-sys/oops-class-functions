@@ -18,7 +18,7 @@
 # cheeta = Animal()
 # cheeta.change("cat")
 # print (Animal.name)
-
+print("fiza khan")
 
 
 # staticmethod # whichout age self ke push kr na h code toh ststicmethod use kre
