@@ -41,8 +41,11 @@ class Bata(Factory):
         self.zip = zip
         self.pockets = pockets
 
-def display (self):
-    print 
+    def display (self):
+     print(f'Bag has {self.name} , {self.color} color , {self.zip} zip and {self.pockets} pockets')
+Rahul = Bata('Rahul','Purple',4,10)
+Rahul.display()
+    
 
 
 
