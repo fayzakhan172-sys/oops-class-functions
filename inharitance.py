@@ -4,7 +4,7 @@
 2.multiple Inheritance  # 2 parent 1 child
 3.multilevel Inheritance # one child becomes parent
 4.hierarchial Inheritance # one parentmultiple child
-5. Hybrid Inheritance
+5. Hybrid Inheritance # its just combination of two types of hierarcial
 
 '''
 

@@ -15,7 +15,6 @@ class students:
 class class10admission(students):
     def __init__(self, name, age, email, number):
         super().__init__(name, age, email, number)
-
     print ("addmission successful")
 
 
